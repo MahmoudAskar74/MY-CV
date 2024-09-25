@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,28 +6,27 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
     <style>
         body {
+            background-color: #ecf0f1;
+            color: #34495e;
             font-family: 'Arial', sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 20px;
-            background-color: #eef2f3;
         }
         .container {
-            max-width: 800px;
-            margin: auto;
-            background: #ffffff;
+            background: #fff;
+            border-radius: 10px;
+            border-left: 5px solid #e74c3c;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1 {
+            color: #e74c3c;
             text-align: center;
-            color: #2c3e50;
-            margin-bottom: 10px;
         }
         h2 {
-            color: #2980b9;
-            border-bottom: 2px solid #2980b9;
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
             padding-bottom: 5px;
         }
         h3 {
@@ -63,20 +61,19 @@
             border-radius: 50%;
             display: block;
             margin: 20px auto;
-            border: 3px solid #2980b9;
+            border: 3px solid #e74c3c;
         }
         .highlight {
             background-color: #f9f9f9;
             padding: 10px;
-            border-left: 4px solid #2980b9;
+            border-left: 4px solid #e74c3c;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Mahmoud Askar</h1>
-        <img src="![WhatsApp Image 2024-09-25 at 09 16 45_cf0c5bba](https://github.com/user-attachments/assets/10182e45-524e-40c1-b811-8cbaaff63356)
-" alt="Profile Picture" class="profile-image"> <!-- استبدل your-image-url.jpg برابط الصورة الخاص بك -->
+        <img src="<a href='https://postimg.cc/CnDh7Kc0' target='_blank'><img src='https://i.postimg.cc/CnDh7Kc0/Whats-App-Image-2024-09-25-at-09-16-45-cf0c5bba.jpg' border='0' alt='Whats-App-Image-2024-09-25-at-09-16-45-cf0c5bba'/></a>" alt="Profile Picture" class="profile-image"> 
         <p class="highlight">Proven Public Relations Specialist with a track record of elevating brand reputation and stakeholder engagement at B2B Matchmaking Company. Excelled in strategic communications and relationship building, securing positive media placements and spearheading impactful community relations initiatives. Recognized for outstanding teamwork and creative direction, consistently achieving objectives and enhancing brand awareness.</p>
 
         <div class="section">
