@@ -128,7 +128,7 @@
 
         <div class="socials">
             <h2>Connect with Me</h2>
-            <a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/mahmoud-askar-1827411b3/" target="_blank"><i class="fab fa-linkedin"></i></a>
             <a href="https://twitter.com/yourprofile" target="_blank"><i class="fab fa-twitter"></i></a>
             <a href="https://github.com/mahmoudaskar74" target="_blank"><i class="fab fa-github"></i></a>
         </div>
