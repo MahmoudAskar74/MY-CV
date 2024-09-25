@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Index.html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -74,7 +74,7 @@
 
         <div class="section">
             <h2>Education</h2>
-            <p>BA Of French Art, Faculty Of Arts, Zagazig University</p>
+            <p>BA of French Art, Faculty of Arts, Zagazig University</p>
         </div>
 
         <div class="section">
