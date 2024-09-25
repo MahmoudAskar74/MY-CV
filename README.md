@@ -73,7 +73,7 @@
 <body>
     <div class="container">
         <h1>Mahmoud Askar</h1>
-        <img src="<a href='https://postimg.cc/CnDh7Kc0' target='_blank'><img src='https://i.postimg.cc/CnDh7Kc0/Whats-App-Image-2024-09-25-at-09-16-45-cf0c5bba.jpg' border='0' alt='Whats-App-Image-2024-09-25-at-09-16-45-cf0c5bba'/></a>" alt="Profile Picture" class="profile-image"> 
+        <img src="https://drive.google.com/uc?id=1E4bzgDNDzhFKxEBrb8K9zalVSflGEnxJ" alt="Profile Picture" class="profile-image">
         <p class="highlight">Proven Public Relations Specialist with a track record of elevating brand reputation and stakeholder engagement at B2B Matchmaking Company. Excelled in strategic communications and relationship building, securing positive media placements and spearheading impactful community relations initiatives. Recognized for outstanding teamwork and creative direction, consistently achieving objectives and enhancing brand awareness.</p>
 
         <div class="section">
