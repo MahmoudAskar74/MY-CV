@@ -16,31 +16,34 @@
         .container {
             background: #fff;
             border-radius: 10px;
-            border-left: 5px solid #e74c3c;
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             padding: 20px;
+            max-width: 800px;
+            margin: auto;
         }
         h1 {
-            color: #e74c3c;
             text-align: center;
+            color: #e74c3c;
+        }
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            display: block;
+            margin: 20px auto;
+            border: 3px solid #e74c3c;
+        }
+        .section {
+            margin-bottom: 20px;
         }
         h2 {
             color: #2c3e50;
             border-bottom: 2px solid #2c3e50;
             padding-bottom: 5px;
         }
-        h3 {
-            color: #34495e;
-        }
         ul {
             list-style-type: none;
             padding: 0;
-        }
-        ul li {
-            padding: 5px 0;
-        }
-        .section {
-            margin-bottom: 20px;
         }
         .socials {
             text-align: center;
@@ -54,14 +57,6 @@
         }
         .socials a:hover {
             color: #2980b9;
-        }
-        .profile-image {
-            width: 150px;
-            height: 150px;
-            border-radius: 50%;
-            display: block;
-            margin: 20px auto;
-            border: 3px solid #e74c3c;
         }
         .highlight {
             background-color: #f9f9f9;
