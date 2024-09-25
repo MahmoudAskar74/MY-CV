@@ -11,24 +11,24 @@
             line-height: 1.6;
             margin: 0;
             padding: 20px;
-            background-color: #f4f4f4;
+            background-color: #eef2f3;
         }
         .container {
             max-width: 800px;
             margin: auto;
-            background: #fff;
+            background: #ffffff;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
         h1 {
             text-align: center;
-            color: #333;
+            color: #2c3e50;
             margin-bottom: 10px;
         }
         h2 {
-            color: #2c3e50;
-            border-bottom: 2px solid #2c3e50;
+            color: #2980b9;
+            border-bottom: 2px solid #2980b9;
             padding-bottom: 5px;
         }
         h3 {
@@ -57,12 +57,27 @@
         .socials a:hover {
             color: #2980b9;
         }
+        .profile-image {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            display: block;
+            margin: 20px auto;
+            border: 3px solid #2980b9;
+        }
+        .highlight {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-left: 4px solid #2980b9;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Mahmoud Askar</h1>
-        <p>Proven Public Relations Specialist with a track record of elevating brand reputation and stakeholder engagement at B2B Matchmaking Company. Excelled in strategic communications and relationship building, securing positive media placements and spearheading impactful community relations initiatives. Recognized for outstanding teamwork and creative direction, consistently achieving objectives and enhancing brand awareness.</p>
+        <img src="![WhatsApp Image 2024-09-25 at 09 16 45_cf0c5bba](https://github.com/user-attachments/assets/10182e45-524e-40c1-b811-8cbaaff63356)
+" alt="Profile Picture" class="profile-image"> <!-- استبدل your-image-url.jpg برابط الصورة الخاص بك -->
+        <p class="highlight">Proven Public Relations Specialist with a track record of elevating brand reputation and stakeholder engagement at B2B Matchmaking Company. Excelled in strategic communications and relationship building, securing positive media placements and spearheading impactful community relations initiatives. Recognized for outstanding teamwork and creative direction, consistently achieving objectives and enhancing brand awareness.</p>
 
         <div class="section">
             <h2>Education</h2>
